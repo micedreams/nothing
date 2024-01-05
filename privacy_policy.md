@@ -1,3 +1,9 @@
+---
+title: Privacy policy
+layout: template
+filename: privacy_policy.md
+--- 
+
 # Privacy Policy
 Micedreams built the Nothing app as a Free app. This SERVICE is provided by Micedreams at no cost and is intended for use as is.
 
